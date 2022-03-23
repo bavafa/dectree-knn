@@ -1,9 +1,12 @@
-# dectree-knn
+# spotify-taste
 Decision Trees,  k-Nearest Neighbours, and Cross-validation
 
-This is project prepared for the BAIT 509: Business Applications of Machine Learning at UBC Sauder School of Business.
+The aim of this project is predicting users' musical taste based on a publically available data set from Spotify.
+The supervised machine learning task for this dataset is predicting whether the user likes a song or not given a number of song features.
 
 Dataset: https://www.kaggle.com/geomack/spotifyclassification/home
+
+This is project prepared for the BAIT 509: Business Applications of Machine Learning at UBC Sauder School of Business.
 
 The main goals for the project were:
 
